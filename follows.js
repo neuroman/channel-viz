@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'viKEpl0VVboxAj6Dj4wFOg5RnCCdew0N04AXA5q4ZG71XivK', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1372342236], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'WTRvuTjKIJ4ok0Ht34WVMrs52lUMO1MHBliyQS6uGSOegn8K', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1737284512], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Neuroman Test Page, // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 30, // Default interval for data to be displayed (in seconds)
